@@ -2,6 +2,10 @@
 
 [en Español](https://github.com/function3d/petalot/blob/master/LEEME.md)
 
+## differences from the original ##
+I added the folder "Bottle-cutter-2.0" with the new version of the cutter made by the original author and available on Printables () and with video on the author's YouTube channel.
+
+
 ## From PET Bottle To 3D Filament
 
 ### If you prefer that I manufacture the machine and the cutter send me an email to functionddd@gmail.com with the shipping country and I will be happy to reply with a quote. ###
