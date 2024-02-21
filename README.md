@@ -12,17 +12,17 @@ I added the folder "Bottle-cutter-2.0" with the new version of the cutter made b
 
 Start here: [FAQs](https://function3d.xyz/)
 
-![Petalot](https://github.com/function3d/petalot/raw/master/Media/petalot_v1.1.jpg)
-![Petalot](https://github.com/function3d/petalot/raw/master/Media/petalot_v1.1_2.jpg)
+![Petalot](https://github.com/otenmas/petalot-v1.1/blob/master/Media/petalot_v1.1.jpg)
+![Petalot](https://github.com/otenmas/petalot-v1.1/blob/master/Media/petalot_v1.1_2.jpg)
 
 This is your project if you are an environmentally conscious person, you 3D print for hobby, you have basic notions of electronics and you like to make things.
 
 ## Bill of material
- - [BOM](https://github.com/function3d/petalot/blob/master/BOM.md)
+ - [BOM](https://github.com/otenmas/petalot-v1.1/blob/master/BOM-v1.1.md)
 
 ## Electronics
 
-![electronics](https://github.com/function3d/petalot/raw/master/Schematic/electronics.jpg)
+![electronics](https://github.com/otenmas/petalot-v1.1/blob/master/Schematic/electronics.jpg)
  - [See BOM](https://github.com/function3d/petalot/blob/master/BOM.md) for electronics parts.
  - [Gerber for PCB fabrication, just upload this zip file to jlcpcb.com and order your PCBs](https://github.com/function3d/petalot/raw/master/Schematic/Gerber_v1.1_2023-01-02.zip)
  - [Schematic](https://github.com/function3d/petalot/tree/master/Schematic)
